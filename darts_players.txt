@@ -1,0 +1,10 @@
+1;Michael van Gerwen;Netherlands;1989.04.25;3;24
+2;Phil Taylor;England;1960.08.13;16;23
+3;Peter Wright;Scotland;1970.03.10;1;21
+4;Gerwyn Price;Wales;1985.03.07;1;24
+5;Gary Anderson;Scotland;1970.12.22;2;22
+6;Raymond van Barneveld;Netherlands;1967.04.20;5;23
+7;Adrian Lewis;England;1985.01.21;2;20
+8;Rob Cross;England;1990.09.21;1;22
+9;John Part;Canada;1966.06.29;3;23
+10;Jocky Wilson;Scotland;1950.03.22;2;25
